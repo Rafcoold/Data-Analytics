@@ -1,4 +1,5 @@
-# Python Final Project
+# Scrapping on some datasets.
+
 Data Analytics. Data set used: https://www.kaggle.com/datasets/shreesudame/covid19-dataset
 
 We used a complete data set which contains the global data on confirmed COVID-19 cases, deaths, vaccination.
